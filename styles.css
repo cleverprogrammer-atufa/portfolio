@@ -340,6 +340,12 @@ img{
     .active::after{
         background-color: var(--white-color);
     }
+    
+    /*=== Show menu ===*/
+   .show{
+    right: 0;
+   }
+    
 
     .home__container{
         height: 100vh;
