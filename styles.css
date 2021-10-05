@@ -158,6 +158,12 @@ img{
     cursor: pointer;
 }
 
+/*=== Show menu ===*/
+   .show{
+    right: 0;
+   }
+    
+
 
 
 /*===== HOME =====*/
@@ -263,7 +269,7 @@ img{
 }
 
 
-/* ===== CONTACT =====*/
+/* ===== blog =====*/
 .blog__container{
     row-gap: 2rem;
 }
@@ -341,10 +347,6 @@ img{
         background-color: var(--white-color);
     }
     
-    /*=== Show menu ===*/
-   .show{
-    right: 0;
-   }
     
 
     .home__container{
